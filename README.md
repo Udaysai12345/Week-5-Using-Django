@@ -1,1 +1,2 @@
-# Week-5-Using-Django
+# Lab-Assignment-5-Django-app
+Django app hello world
